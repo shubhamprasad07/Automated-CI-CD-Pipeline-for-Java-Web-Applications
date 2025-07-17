@@ -225,7 +225,7 @@
                 </div>
                 <div class="feature-card">
                     <i class="icon">📱</i>
-                    <h3>Fully Responsive</h3>
+                    <h3>Fully Responsive WebPages</h3>
                     <p>Designed with a mobile-first approach to look stunning on any device, from desktops to smartphones.</p>
                 </div>
                 <div class="feature-card">
