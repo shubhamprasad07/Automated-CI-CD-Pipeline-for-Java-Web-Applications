@@ -232,6 +232,7 @@
                     <i class="icon">✨</i>
                     <h3>Modern Design</h3>
                     <p>Clean aesthetics, smooth animations, and a professional layout using modern CSS techniques.</p>
+                    <p>If you see this line in Github, that means your latest changes are getting pushed to your cloud repo :o</p>
                 </div>
             </div>
         </section>
