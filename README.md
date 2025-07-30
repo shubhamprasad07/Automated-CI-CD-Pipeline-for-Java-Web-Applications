@@ -30,10 +30,10 @@ Here’s what I’m using for this project:
 - Key pairs, SSH connections, Git, Maven and Java.
 - **VSCode**: For my IDE, I chose Visual Studio Code. It connects directly to my development EC2 instance, making it easy to edit code and manage files in the cloud.
 - **GitHub**: All my web app code is stored and versioned in this GitHub repository.
-- **[COMING SOON] AWS CodeArtifact**: Once it's rolled out, CodeArtifact will store my artifacts and dependencies, which is great for high availability and speeding up my project's build process.
-- **[COMING SOON] AWS CodeBuild**: Once it's rolled out, CodeBuild will take over my build process. It'll compile the source code, run tests, and produce ready-to-deploy software packages automatically.
-- **[COMING SOON] AWS CodeDeploy**: Once it's rolled out, CodeDeploy will automate my deployment process across EC2 instances.
-- **[COMING SOON] AWS CodePipeline**: Once it's rolled out, CodePipeline will automate the entire process from GitHub to CodeDeploy, integrating build, test, and deployment steps into one efficient workflow.
+- **AWS CodeArtifact**: Once it's rolled out, CodeArtifact will store my artifacts and dependencies, which is great for high availability and speeding up my project's build process.
+- **AWS CodeBuild**: Once it's rolled out, CodeBuild will take over my build process. It'll compile the source code, run tests, and produce ready-to-deploy software packages automatically.
+- **AWS CodeDeploy**: Once it's rolled out, CodeDeploy will automate my deployment process across EC2 instances.
+- **AWS CodePipeline**: Once it's rolled out, CodePipeline will automate the entire process from GitHub to CodeDeploy, integrating build, test, and deployment steps into one efficient workflow.
 
 
 <br>
@@ -58,13 +58,11 @@ To get this project up and running on your local machine, follow these steps:
 
 ## Contact
 If you have any questions or comments about the my CI/CD project, please contact:
-Natasha - [email@example.com](mailto:email@example.com)
+Shubham Prasad - [shubhamprasad7777@gmail.com](mailto:shubhamprasad7777@gamil.com)
 
-- [LinkedIn](https://www.linkedin.com/in/natasha-ong/)
+- [LinkedIn](https://www.linkedin.com/in/07shubhamprasad/)
 
 <br>
 
 ## Conclusion
 Thank you for exploring this project! I'll continue to build this pipeline and apply my learnings to future projects.
-
-A big shoutout to **[NextWork](https://learn.nextwork.org/app)** for their project guide and support. [You can get started with this DevOps series project too by clicking here.](https://learn.nextwork.org/projects/aws-devops-vscode?track=high)
