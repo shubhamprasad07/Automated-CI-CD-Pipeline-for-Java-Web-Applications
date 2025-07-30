@@ -8,7 +8,7 @@ sudo cat << EOF > /etc/httpd/conf.d/tomcat_manager.conf
   DefaultType text/html
   ProxyRequests off
   ProxyPreserveHost On
-  ProxyPass / http://localhost:8080/Automated-CI-CD-Pipeline-for-Java-Web-Applications/
-  ProxyPassReverse / http://localhost:8080/Automated-CI-CD-Pipeline-for-Java-Web-Applications/
+  ProxyPass / http://localhost:8080/nextwork-web-project/
+  ProxyPassReverse / http://localhost:8080/nextwork-web-project/
 </VirtualHost>
 EOF
